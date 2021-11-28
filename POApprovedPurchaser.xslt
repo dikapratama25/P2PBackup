@@ -39,6 +39,11 @@
                     </tr>
                 </table>
                 <table style="margin-left: 50px;">
+					    <tr>
+						    <td style="color: #333;width: 100px; font-weight: 600;font-family: Arial, Helvetica, sans-serif;">Vendor Name</td>
+						    <td style="color: #333;width: 20px;font-family: Arial, Helvetica, sans-serif;">:</td>
+						    <td style="color: #333;font-family: Arial, Helvetica, sans-serif;">[VendorName]</td>
+					    </tr>
 						<tr>
 							<td style="color: #333;width: 100px; font-weight: 600;font-family: Arial, Helvetica, sans-serif;">PO Number</td>
 							<td style="color: #333;width: 20px;font-family: Arial, Helvetica, sans-serif;">:</td>
@@ -50,7 +55,7 @@
 							<td style="color: #333;font-family: Arial, Helvetica, sans-serif;">[POAmount]</td>
 						</tr>
 						<tr>
-							<td style="color: #333;width: 100px; font-weight: 600;font-family: Arial, Helvetica, sans-serif;">PO Internal Remark</td>
+							<td style="color: #333;width: 100px; font-weight: 600;font-family: Arial, Helvetica, sans-serif;">PO  Remark</td>
 							<td style="color: #333;width: 20px;font-family: Arial, Helvetica, sans-serif;">:</td>
 							<td style="color: #333;font-family: Arial, Helvetica, sans-serif;">[PORemark]</td>
 						</tr>
