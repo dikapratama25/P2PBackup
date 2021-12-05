@@ -16,11 +16,11 @@
                         <td width="420px" style="width: 420px;">
                             <img src="https://i.postimg.cc/9z6ZKyDf/Whats-App-Image-2021-10-26-at-16-36-13.jpg" alt="Whats-App-Image-2021-10-26-at-16-36-13"/>
                         </td>
-                        <td rowspan="2" style="font-family: Arial, Helvetica, sans-serif; color: #333;">
+                        <!--<td rowspan="2" style="font-family: Arial, Helvetica, sans-serif; color: #333;">
                             Status
                             <br/>
                             <span style="font-weight: 600; color: #2a596d;margin-top: 10px;">Accepted</span>
-                        </td>
+                        </td>-->
                     </tr>
                 </table>
                 <table style="margin-left: 50px;">

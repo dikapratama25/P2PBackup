@@ -19,7 +19,7 @@
                         <td rowspan="2" style="font-family: Arial, Helvetica, sans-serif; color: #333;">
                             Status
                             <br/>
-                            <span style="font-weight: 600; color: #2a596d;margin-top: 10px;">Accepted</span>
+                            <span style="font-weight: 600; color: #2a596d;margin-top: 10px;">[Status]</span>
                         </td>
                     </tr>
                 </table>
